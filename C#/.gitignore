@@ -21,3 +21,5 @@ _NCrunch_*
 
 # NuGet
 packages/
+
+.vs
